@@ -1,4 +1,4 @@
-# High-speed USB isolator based on ADuM3165
+# High-speed USB isolator based on ADuM3165/ADuM3166
 
 When connecting a USB device to a PC or laptop, there is a risk that the device may be faulty or may fail during operation. This is especially relevant during the development and debugging of devices that connects to your PC.
 
@@ -24,6 +24,6 @@ This Repository contains Gerber files, BOM, and step model. All you need to make
 
 ![image](https://github.com/Fominsky/HIGH-SPEED-USB-ISOLATOR/assets/15094757/9cb8d0ad-a32b-41e1-ab38-f9632be99db0)
 
-![image](https://github.com/Fominsky/HIGH-SPEED-USB-ISOLATOR/assets/15094757/b6b3f7d4-25cf-4645-93da-ea336e3d3777)
+![image](https://github.com/Fominsky/HIGH-SPEED-USB-ISOLATOR/assets/15094757/82485f93-f85f-4e32-8115-b1f6119b4b3d)
 
 
