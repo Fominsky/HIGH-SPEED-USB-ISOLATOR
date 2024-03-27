@@ -3574,7 +3574,7 @@
     (effects (font (size 1.5 1.5)) (justify left bottom))
     (uuid 4f78b283-e1b4-41c3-9fd4-959fe3f76bc8)
   )
-  (text "In case of use ADuM3165:\nY1 NC\nC1, C3 - R 0 Ohm" (at 107.315 245.745 0)
+  (text "In case of use ADuM3166:\nY1 NC\nC1, C3 - R 0 Ohm" (at 107.315 245.745 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 9726eb85-a3e9-4d2e-a489-4dc2a958dba0)
   )
